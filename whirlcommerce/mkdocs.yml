@@ -1,3 +1,4 @@
 site_name: WhirlCommerce - A Serverless Commerce Architecture
 theme:
   name: material
+site_dir: wiki/
